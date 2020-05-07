@@ -15,8 +15,8 @@
 Arduino part of project which contains an app and smart buble model.
 
 ## Screenshots
-![Screenshot](./img/zdj.jpg)
-![Screenshot](./img/zdj1.jpg)
+![Screenshot](./img/zdj.png)
+![Screenshot](./img/zdj1.png)
 ## Technologies
 * C
 
