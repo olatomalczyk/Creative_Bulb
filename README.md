@@ -1,5 +1,5 @@
 #Creative Bulb
-Arduino project
+>Arduino project
 
 ## Table of contents
 * [General info](#general-info)
